@@ -5,6 +5,9 @@ This repository contains sample PoC codes demonstrating the terminal escape inje
 - Mac OS
 - Linux
 
+See the main article here: https://www.infosecmatter.com/terminal-escape-injection/
+
+
 ### Terminal injection in a shell script:
 ![esc-inject-shell-linux-gnome-terminal](https://user-images.githubusercontent.com/60963123/79501079-85d6dc80-803e-11ea-8cee-f7e1755c7551.png)
 
@@ -34,4 +37,4 @@ Tested on:
 - Windows 10 PowerShell
 - Windows 10 Command Prompt
 
-For details, visit https://www.infosecmatter.com/terminal-escape-injection/
+For more information, visit https://www.infosecmatter.com/terminal-escape-injection/
