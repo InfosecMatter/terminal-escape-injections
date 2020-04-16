@@ -33,6 +33,7 @@ Tested on:
 
 ### Terminal injection in a PowerShell (.ps1) script:
 ![esc-inject-ps1-win-powershell](https://user-images.githubusercontent.com/60963123/79501421-10b7d700-803f-11ea-83d7-d2181e9692de.png)
+
 Tested on:
 - Windows 10 PowerShell
 - Windows 10 Command Prompt
